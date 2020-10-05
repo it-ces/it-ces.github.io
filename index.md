@@ -1,4 +1,7 @@
-## Welcome
+## In this web page you'll fin material to learn statistics and programming.
+
+
+
 
 Python material
 
