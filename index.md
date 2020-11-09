@@ -1,5 +1,7 @@
 ## In this web page you'll find material to learn statistics and programming.
 
+This web page contain personal notes about several topics as programming in Python and statistics.
+
 
 ## guidelines 
 
@@ -12,10 +14,12 @@
 * [introduction to python](https://medium.com/@ivanandrestrujillo/minimal-guideline-to-get-descriptive-statistics-using-python-8ede26a7146d)
 
 
-this web page contain information about several topics as programming in python and related things.
-we need understand how we can fix the web.
 
 ## R
 
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/it-ces/linear_models/main?filepath=R_lab.ipynb)
-* [interative Lab in R](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/it-ces/linear_models/main?filepath=R_lab.ipynb)
+
+
+* [See lab](https://nbviewer.jupyter.org/github/it-ces/linear_models/blob/main/index.ipynb)
+
+
