@@ -1,4 +1,4 @@
-## In this web page you'll find material to learn statistics and programming.
+## In this web page you'll hosted personal material to learn statistics and programming.
 
 This web page contain personal notes about several topics as programming in Python and statistics.
 
@@ -6,7 +6,6 @@ This web page contain personal notes about several topics as programming in Pyth
 ## guidelines 
 
 * [Basics of languages programming to data analysis](https://it-ces.github.io/data-course/)  
-
 
 
 ## Medium Publications:
@@ -25,4 +24,5 @@ This web page contain personal notes about several topics as programming in Pyth
 ## Another material:
 
 * [Introducción al manejo de datos en Stata](https://www.researchgate.net/publication/343136674_Introduccion_a_la_a_gestion_de_datos_en_Stata)
+
 
