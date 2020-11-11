@@ -5,7 +5,7 @@ This web page contain personal notes about several topics as programming in Pyth
 
 ## guidelines 
 
-* [bash programming](https://it-ces.github.io/data-course/)  
+* [Basics of languages programming to data analysis](https://it-ces.github.io/data-course/)  
 
 
 
@@ -22,4 +22,7 @@ This web page contain personal notes about several topics as programming in Pyth
 
 * [See lab](https://nbviewer.jupyter.org/github/it-ces/linear_models/blob/main/index.ipynb)
 
+## Another material:
+
+* [Introducción al manejo de datos en Stata](https://www.researchgate.net/publication/343136674_Introduccion_a_la_a_gestion_de_datos_en_Stata)
 
