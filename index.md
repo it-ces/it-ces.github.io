@@ -1,13 +1,15 @@
-## In this web page you'll find material to learn statistics and programming.
+## In this web page you'll hosted personal material to learn statistics and programming.
 
 This web page contain personal notes about several topics as programming in Python and statistics.
 
 
 ## guidelines 
 
-* [bash programming](https://it-ces.github.io/data-course/)  
+* [Basic bash](https://it-ces.github.io/data-course/)  
 
+* [Basic R] 
 
+* [Basic of SQL]
 
 ## Medium Publications:
 
@@ -21,5 +23,6 @@ This web page contain personal notes about several topics as programming in Pyth
 
 
 * [See lab](https://nbviewer.jupyter.org/github/it-ces/linear_models/blob/main/index.ipynb)
+
 
 
