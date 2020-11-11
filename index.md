@@ -6,6 +6,9 @@ This web page contain personal notes about several topics as programming in Pyth
 ## guidelines 
 
 * [Basic bash](https://it-ces.github.io/data-course/)  
+* [test](https://github.com/it-ces/data-course/blob/gh-pages/bash/index.md)
+* [test2](https://github.com/it-ces/data-course/blob/gh-pages/R/index.md)
+
 
 * [Basic R] 
 
