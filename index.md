@@ -26,3 +26,5 @@ This web page contain personal notes about several topics as programming in Pyth
 * [Introducción al manejo de datos en Stata](https://www.researchgate.net/publication/343136674_Introduccion_a_la_a_gestion_de_datos_en_Stata)
 
 
+# Camila está en su primer semestre
+
